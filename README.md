@@ -6,7 +6,8 @@ Aqui você encontra meus principais projetos, experiências e aprendizados como 
 
 ## 🔥 Sobre mim
 Sou apaixonado por tecnologia, design e inovação.  
-Atualmente foco em desenvolvimento **Front-End**, criando interfaces modernas e responsivas.
+Atualmente foco em desenvolvimento **Front-End** e **Back-End**, criando interfaces modernas e responsivas,
+com códigos lineares e de fácil compreensão.
 
 ## 📂 Projetos
 - [Website com links](http://127.0.0.1:5500/index.html)  
@@ -19,4 +20,4 @@ Atualmente foco em desenvolvimento **Front-End**, criando interfaces modernas e 
 
 ---
 
-✨ Esse portfólio foi criado para apresentar meus trabalhos e evoluções na área de tecnologia.
+✨ Esse portfólio foi criado para apresentar meus trabalhos e evoluções na área de tecnologia, espero que gostem 😁.
